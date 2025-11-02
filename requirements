@@ -1,0 +1,12 @@
+# Core Libraries
+numpy
+torch
+tqdm
+faiss-cpu
+sentence-transformers
+transformers
+accelerate
+
+# PDF / Text Processing
+PyMuPDF
+pdfminer.six
